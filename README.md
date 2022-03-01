@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziviledauderiene
-- 🌱 I’m currently learning WEB development (html, css, js, php, wordpress)
+- 🌱 I’m currently learning WEB development (html, css/scss, js, react)
 
 
 <!---
