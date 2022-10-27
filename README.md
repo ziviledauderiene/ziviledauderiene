@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ziviledauderiene
-- 🌱 I’m currently learning WEB development (html, css/scss, js, react, typescript, node.js)
+👋 Hi, I’m @ziviledauderiene
+Frontend Developer
+- React, TypeScript, SCSS, Material UI, Jest
+- Node.js, Express, Mongo DB
 
 
 <!---
