@@ -1,6 +1,4 @@
 👋 Hi, I’m @ziviledauderiene, Frontend Developer
-- React, TypeScript, SCSS, Material UI, Jest
-- Node.js, Express, Mongo DB
 
 
 <!---
